@@ -154,7 +154,3 @@ int frequency(char note)
 
 
 }
-
-
-
-
